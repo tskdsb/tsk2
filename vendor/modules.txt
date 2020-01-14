@@ -1,0 +1,2 @@
+# github.com/tskdsb/mod/bbb v0.0.0-20191204015641-78996d58b79c
+github.com/tskdsb/mod/bbb
